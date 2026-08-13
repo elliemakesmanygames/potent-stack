@@ -1,8 +1,5 @@
-**This module is not meant for any real work and should not be used; alternatives are table.insert() and table.remove(). This module is not maintained. This project is uniquely a parody project.**
-
-# StackLibrary
+StackLibrary
 [![Source on GitHub](https://img.shields.io/badge/Source-GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackingsplash/StackLibrary)
-[![Get it on Roblox](https://img.shields.io/badge/Get%20it%20on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://create.roblox.com/store/asset/81799640024168)
 
 **StackLibrary** is a simple library that implements the use of the Stack data structure in Roblox, focusing mainly on optimization and readable code that is easily modified by the developer. Its functionality 
 works well as it has thread safety, a frozen state (for .freeze), enforces a node limit and byte size limit on each node that can be customised, and more! This module is **still** just being published, so it may
