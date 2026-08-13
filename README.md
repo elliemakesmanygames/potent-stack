@@ -1,4 +1,4 @@
-StackLibrary
+# StackLibrary
 [![Source on GitHub](https://img.shields.io/badge/Source-GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackingsplash/StackLibrary)
 
 **StackLibrary** is a simple library that implements the use of the Stack data structure in Roblox, focusing mainly on optimization and readable code that is easily modified by the developer. Its functionality 
